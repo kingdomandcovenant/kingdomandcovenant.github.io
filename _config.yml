@@ -10,9 +10,9 @@ encoding: utf-8
 title:               国度与圣约
 #tagline:            Kingdom and Covenant
 description:         Christ The Center
-url:                 http://kingdomandcovenant.gitee.io
+url:                 http://kingdomandcovenant.github.io
 baseurl:  ""
-urlimg: http://kingdomandcovenant.gitee.io/images/
+urlimg: http://kingdomandcovenant.github.io/images/
 markdown: kramdown
 kramdown:
 math_engine: mathjax
