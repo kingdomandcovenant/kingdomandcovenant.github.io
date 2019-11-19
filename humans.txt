@@ -2,7 +2,7 @@
 ---
 
 /* TEAM */
-Primary Contact: foo
+Primary Contact: 国度与圣约
 Site: {{ site.url }}/about/
 Twitter: https://twitter.com/{{ site.owner.twitter }}
 

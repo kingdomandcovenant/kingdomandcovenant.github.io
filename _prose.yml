@@ -1,7 +1,7 @@
 prose:
   rooturl: ''
-  siteurl: 'http://example.com/'
-  relativeLinks: 'http://example.com/links.jsonp'
+  siteurl: 'http://kingdomandcovenant.gitee.io'
+  relativeLinks: 'http://kingdomandcovenant.gitee.io/links.jsonp'
   media: 'images/media'
   ignore:
     - /_data

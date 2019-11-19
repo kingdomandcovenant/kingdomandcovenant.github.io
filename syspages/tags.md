@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tag Cloud"
+title: "标签"
 permalink: "/tags/"
 description: "Browse website by tag based index"
 comments: false
@@ -9,7 +9,7 @@ category: base
 ---
 
 {:.text-center}
-## <i class="fa fa-paperclip" title="Featured"></i> <a href="{{ site.url }}/featured">Featured Posts</a>
+
 
 <hr class="style17" style="margin:1.0rem 0;">
 

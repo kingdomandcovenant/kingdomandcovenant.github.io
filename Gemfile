@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem ‘jekyll-feed’
 gem 'nokogiri', '= 1.6.8.1'
 gem 'addressable', '= 2.3.8'
 

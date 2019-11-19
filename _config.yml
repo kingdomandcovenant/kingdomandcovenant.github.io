@@ -7,19 +7,15 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               İsa ALP
-#tagline:             'foo's website
-description:         Foo's blog...
-url: http://isaalp.com/lanyon-plus
-baseurl: ""
-urlimg: https://lanyon-plus.sbamin.com/images/
-## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
-#url: https://dyndna.github.io/lanyon-plus
-#baseurl: "/lanyon-plus"
-#urlimg: https://dyndna.github.io/lanyon-plus/images/
+title:               国度与圣约
+#tagline:            Kingdom and Covenant
+description:         Christ The Center
+url:                 http://kingdomandcovenant.gitee.io
+baseurl:  ""
+urlimg: http://kingdomandcovenant.gitee.io/images/
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
+math_engine: mathjax
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -49,70 +45,66 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
-  avatar:         foo.png
+  name:              国度与圣约事工
+  #url:               https://twitter.com/abcd
+  #avatar:         foo.png
   #email:           
 
 # Owner/author information
 owner:
-  name:           Foo Boo
-  avatar:         foo.png
+  name:           国度与圣约事工
+  #avatar:         foo.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:
+  #description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
-  github:         xyz123abc
-  stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
-  flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  #twitter:        abcd
+  #facebook:       
+  #github:         xyz123abc
+  #stackexchange:  
+  #linkedin:       https://www.linkedin.com/in/foo
+  #instagram:      
+  #flickr:
+  #tumblr:  
+  #google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  #orcid: xyz123abc
+  #gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
 links:
-  - title: <i class="iconside iconm-home"></i> Home
+  - title: <i class="iconside iconm-home"></i> 主页
     url: /
-  - title: <i class="iconside iconm-user"></i> About
+  - title: <i class="iconside iconm-user"></i> 信仰立场
     url: /about/
-  - title: <i class="iconside iconm-quill"></i> Blog
+  - title: <i class="iconside iconm-quill"></i> 文章
     url: /blog/
-  - title: <i class="fa fa-tags"></i> Tags
-    url: /tags/
-  - title: <i class="fa fa-archive"></i> Archive
+  - title: <i class="fa fa-tags"></i>  专题
+    url: /topics/
+  - title: <i class="fa fa-archive"></i> 存档
     url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
-    external: true
-  - title: <i class="iconside iconm-envelop"></i> Contact
+  - title: <i class="fa fa-group"></i> 资源
+    url: /links/
+  - title: <i class="iconside iconm-wordpress"></i> 笔记本
+    url: /notes/
+  - title: <i class="iconside iconm-envelop"></i> 留言
     url: /contact/
-  - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
-    external: true
-  - title: <i class="iconside iconm-feed2"></i> Feed
-    url: /feed.xml
+  - title: <i class="iconside iconm-feed2"></i> 订阅
+    url: /subscription/
 
 # Google Custom Search:
-#google_search: xyz123abc
+google_search:  AIzaSyBroOvyVcam0XbCYrNe448DJXoIecOv1TU 
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+disqus_shortname: kingdomandcovenant
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
 
-#### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
-version: 1.1.1
+
 ## END ##

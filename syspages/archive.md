@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Archive
-description: "Archive"
+title: 存档
+description: "存档"
 permalink: /archive/
 category: base
 ---
 
 <section id="archive">
-  <h3>This year's posts</h3>
+  <h3>今年的文章</h3>
   {%for post in site.posts %}
     {% unless post.next %}
       <ul class="post-list">
