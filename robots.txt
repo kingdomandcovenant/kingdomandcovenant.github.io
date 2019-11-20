@@ -55,4 +55,4 @@ Disallow: /files/
 User-agent: *
 Disallow: /
 
-Sitemap: https://kingdomandcovenant.gitee.io/sitemap.xml
+Sitemap: https://kingdomandcovenant.github.io/sitemap.xml
