@@ -16,7 +16,7 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2019-07-31
 
----  
+---
 
-[系统神学笔记](https://kingdomandcovenant.gitee.io/stnotes/)    
-[范泰尔阅读笔记](https://kingdomandcovenant.gitee.io/vantil/)    
+[系统神学笔记](https://kingdomandcovenant.github.io/stnotes/)    
+[范泰尔阅读笔记](https://kingdomandcovenant.github.io/vantil/)    
