@@ -22,4 +22,4 @@ tags:
 
 **FeedBurner**: [http://feeds.feedburner.com/kingdomandcovenant](http://feeds.feedburner.com/kingdomandcovenant)  
 
-**原生RSS**：[https://kingdomandcovenant.gitee.io/feed.xml](https://kingdomandcovenant.gitee.io/feed.xml)
+**原生RSS**：[https://kingdomandcovenant.github.io/feed.xml](https://kingdomandcovenant.gitee.io/feed.xml)
