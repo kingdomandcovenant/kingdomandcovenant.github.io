@@ -20,6 +20,7 @@ tags:
 
 ---
 
-**FeedBurner**: [http://feeds.feedburner.com/kingdomandcovenant](http://feeds.feedburner.com/kingdomandcovenant)  
+**FeedBurner**: [http://feeds.feedburner.com/github/koc](http://feeds.feedburner.com/github/koc)  
 
 **原生RSS**：[https://kingdomandcovenant.github.io/feed.xml](https://kingdomandcovenant.gitee.io/feed.xml)
+
