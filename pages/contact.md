@@ -8,32 +8,25 @@ description: "Contact example.com"
 comments: false
 mathjax: false
 noindex: false
-sitemap:
-    priority: 0.5
-    changefr <div class="container">
-  <form action="action_page.php">
-
-    <label for="fname">Your Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-   
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-    </select>
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-
-  </form>
-</div> eq: 'monthly'
-    lastmod: 2016-02-13
 tags:
 
 ---
 
+
+
+<div class="container">  
+  <form id="contact" action="" method="post">
+    <fieldset>
+      <input placeholder="名字" type="text" tabindex="1" required autofocus>
+    </fieldset>
+    <fieldset>
+      <input placeholder="电子邮箱" type="email" tabindex="2" required>
+    </fieldset> <fieldset>
+      <textarea placeholder="输入留言...." tabindex="5" required></textarea>
+    </fieldset>
+    <fieldset>
+      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">提交</button>
+    </fieldset>
+  </form> 
+</div>
 
