@@ -4,8 +4,8 @@ permalink: /contact/
 title: 留言
 show_meta: false
 published: true
-description: "Contact example.com"
-comments: false
+description: "Contact"
+comments: true
 mathjax: false
 noindex: false
 tags:
