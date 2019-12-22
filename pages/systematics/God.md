@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 系统神学笔记
-permalink: /systematics/God
+permalink: /God/
 show_meta: true
 # imagefeature path is relative to images/ directory.
 imagefeature: foo.png
