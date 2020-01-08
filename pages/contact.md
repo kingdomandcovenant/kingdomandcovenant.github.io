@@ -5,7 +5,7 @@ title: 留言
 show_meta: false
 published: true
 description: "Contact"
-comments: false
+comments: true
 mathjax: false
 noindex: false
 tags:
