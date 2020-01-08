@@ -20,9 +20,9 @@ tags:
 
 ---
 
-**FeedBurner**: [http://feeds.feedburner.com/github/koc](http://feeds.feedburner.com/github/koc)  
+ [**FeedBurner**]((http://feeds.feedburner.com/github/koc))    
 
-**邮件订阅**：[https://feedburner.google.com/fb/a/mailverify?uri=github/koc&amp;loc=en_US](https://feedburner.google.com/fb/a/mailverify?uri=github/koc&amp;loc=en_US)
+[**邮件订阅**](https://feedburner.google.com/fb/a/mailverify?uri=github/koc&amp;loc=en_US)
 
-**原生RSS**：[https://kingdomandcovenant.github.io/feed.xml](https://kingdomandcovenant.gitee.io/feed.xml)
+[**原生RSS**](https://kingdomandcovenant.gitee.io/feed.xml)
 
