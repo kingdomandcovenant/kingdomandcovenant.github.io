@@ -90,7 +90,7 @@ links:
     url: /notes/
   - title: <i class="iconside iconm-envelop"></i> 留言
     url: https://shimo.im/forms/XN4Sh201nOI3LXcA/fill
-    external：true
+    external:true
   - title: <i class="iconside iconm-feed2"></i> 订阅
     url: /subscription/
 
