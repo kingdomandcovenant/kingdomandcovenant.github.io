@@ -22,12 +22,15 @@ layout: default
       {% include meta_info.html %}
     {% endunless %}
 </div>
-
+<div>
+<a href="https://shimo.im/forms/XN4Sh201nOI3LXcA/fill">点击此处留言</a>
+</div>
 {% unless page.hide_printmsg == true %}
   {% include printmsgposts.html %}
 {% endunless %}
 
 <div class="page-break"></div>
+
 <div class="related">
   <h2>Related Posts</h2>
 <ul>
@@ -43,9 +46,7 @@ layout: default
   {% endfor %}
 </ul>
 </div>
-<div>
-<a href="https://shimo.im/forms/XN4Sh201nOI3LXcA/fill">点击此处留言</a>
-</div>
+
 <div class="prevnext">
   {% if page.previous.url %}
     <a class="prevnext-item older" href="{{ site.url }}{{page.previous.url}}" title="{{ page.previous.title }}">Older</a>
