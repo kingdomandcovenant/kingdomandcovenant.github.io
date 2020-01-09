@@ -21,14 +21,14 @@ layout: default
     {% unless page.show_meta == false %}
       {% include meta_info.html %}
     {% endunless %}
+
+{% unless page.hide_printmsg == true %}
+  {% include printmsgposts.html %}
+{% endunless %}
 </div>
 <div>
 <a href="https://shimo.im/forms/XN4Sh201nOI3LXcA/fill">点击此处留言</a>
 </div>
-{% unless page.hide_printmsg == true %}
-  {% include printmsgposts.html %}
-{% endunless %}
-
 <div class="page-break"></div>
 
 <div class="related">
