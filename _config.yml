@@ -89,7 +89,8 @@ links:
   - title: <i class="iconside iconm-wordpress"></i> 笔记本
     url: /notes/
   - title: <i class="iconside iconm-envelop"></i> 留言
-    url: /contact/
+    url: https://shimo.im/forms/XN4Sh201nOI3LXcA/fill
+    external: true
   - title: <i class="iconside iconm-feed2"></i> 订阅
     url: /subscription/
 
@@ -102,7 +103,11 @@ google_search:  AIzaSyBroOvyVcam0XbCYrNe448DJXoIecOv1TU
 
 # Add disqus username for Disqus comment board:
 disqus_shortname: kingdomandcovenant
-
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: kingdomandcovenant
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
 
