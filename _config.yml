@@ -8,18 +8,18 @@ encoding: utf-8
 
 # Setup
 title:               国度与圣约
-tagline:            Pro Rege
-description:         Christ The Center
+#tagline:            Pro Rege
+#description:         Christ The Center
 url:                 http://kingdomandcovenant.github.io
 baseurl:  ""
 urlimg: http://kingdomandcovenant.github.io/images/
 markdown: kramdown
-kramdown:
+
 math_engine: mathjax
 
 paginate: 5
 paginate_path: "/blog/page:num"
-excerpt_separator: <!--more-->
+excerpt_separator: <!--继续阅读-->
 default_bg: sitebg.jpg
 default_logo: sitelogo.png
 safe: false
