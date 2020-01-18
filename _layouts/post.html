@@ -10,7 +10,7 @@ layout: default
     {% unless page.show_meta == false %}
       
     {% endunless %}
-  {{ content }}
+    {{ content | toc }}
 
   <hr>
   {% if page.tags contains 'R' %}
