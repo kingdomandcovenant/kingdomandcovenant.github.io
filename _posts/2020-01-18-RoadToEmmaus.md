@@ -141,9 +141,7 @@ tag:
 
 从这个例子，我们可以看到以经解经和以基督为中心解经的重要性对于按著正意分解真理的道的必要性。当然，麦基洗德的例子是相对简单的应用，在这一系列的分享中，我们都讲依照着两个原则，在新约的光照下，走上我们自己的通往以马忤斯之路---从《旧约》中发现基督。这一个系列的下个分享，我们将讨论如何通过预表来发现《旧约》中的基督。
 
-
-
-## 参考文献
+# 参考文献
 
 - 林慈信. 旧约中的基督 https://www.youtube.com/playlist?list=PLvHeqN2eAKCF7RhPLZJmWMJGI9fjy1ujd
 - DeRouchie, Jason（2019）. “The Mystery Revealed: A Biblical Case for Christ-Centered Old Testament Interpretation.” Themelios 44, no. 2 (n.d.). https://themelios.thegospelcoalition.org/article/the-mystery-revealed-a-biblical-case-for-christ-centered-ot-interpretation/.
