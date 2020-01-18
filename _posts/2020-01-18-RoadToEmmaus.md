@@ -3,6 +3,7 @@ layout: post
 title: 【从旧约中传讲基督】通往以马忤斯之路
 # date element overrides date in title format.
 date: 2020-1-18
+toc: true
 tag:
   - 圣经神学
 ---
