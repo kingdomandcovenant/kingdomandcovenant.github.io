@@ -36,7 +36,7 @@ gems:
   - font-awesome-sass
   - jekyll-redirect-from
   - jekyll-mentions
-
+  - jekyll-toc
 jekyll-mentions:
   base_url: https://twitter.com
 
