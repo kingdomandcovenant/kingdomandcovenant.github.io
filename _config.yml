@@ -37,7 +37,10 @@ gems:
   - jekyll-redirect-from
   - jekyll-mentions
   - jekyll-toc
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3a77c5a806b23de9fa2e617ebf56549fa6716b94
 jekyll-mentions:
   base_url: https://twitter.com
 
