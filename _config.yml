@@ -21,7 +21,6 @@ excerpt_separator: <!--继续阅读-->
 default_bg: sitebg.jpg
 default_logo: sitelogo.png
 safe: false
-toc_levels：1，2，3，4，5
 
 #timezone:    America/Chicago
 future:      true
