@@ -35,7 +35,8 @@ gems:
   - jekyll-redirect-from
   - jekyll-mentions
   - jekyll-toc
-
+plugins:
+  - jekyll-toc
 
 
 include: [".htaccess"]
