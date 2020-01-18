@@ -21,7 +21,10 @@ excerpt_separator: <!--继续阅读-->
 default_bg: sitebg.jpg
 default_logo: sitelogo.png
 safe: false
+<<<<<<< HEAD
 
+=======
+>>>>>>> b16290c98bd821c5b787fc7932de7738341cf82a
 
 #timezone:    America/Chicago
 future:      true
@@ -37,12 +40,8 @@ gems:
   - jekyll-redirect-from
   - jekyll-mentions
   - jekyll-toc
-<<<<<<< HEAD
 
-=======
->>>>>>> 3a77c5a806b23de9fa2e617ebf56549fa6716b94
-jekyll-mentions:
-  base_url: https://twitter.com
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "rakefile", "README.md", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "LICENSE", "vendor", "assets", "_plugins", "public/dormant"]
