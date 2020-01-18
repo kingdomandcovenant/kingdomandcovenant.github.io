@@ -1,12 +1,11 @@
 source 'https://rubygems.org'
-gem ‘jekyll-feed’
+
 gem 'nokogiri', '= 1.6.8.1'
 gem 'addressable', '= 2.3.8'
 gem 'jekyll-toc'
 
 group :jekyll_plugins do
 gem 'github-pages', '>= 93'
-
 end
 
 group :jekyll_misc_plugins do
@@ -15,8 +14,6 @@ gem 'font-awesome-sass', '>= 4.6.2'
 gem 'travis', '>= 1.8.2'
 gem 'jekyll-redirect-from', '>=0.11.0'
 gem 'jekyll-mentions', '>= 1.1.3'
-gem 'jekyll-toc'
-
 end
 
 group :theme_bj_plugins do
