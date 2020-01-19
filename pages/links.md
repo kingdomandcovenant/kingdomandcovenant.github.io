@@ -29,8 +29,8 @@ sitemap:
 [约翰·诺克斯高等教育学院](http://www.johnknoxinstitute.com/)   
 [福音联盟](https://www.tgcchinese.org/)  
 [健康教会九标志中文事工](https://cn.9marks.org/)  
+[改革宗翻译社](https://rtf-usa.com/books/)  
 [林慈信网络课程合集](http://fv.sg/ecom/repositorysamuel/item/229/type/1)  
-
 
 ------
 
