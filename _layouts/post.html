@@ -10,7 +10,12 @@ layout: default
     {% unless page.show_meta == false %}
       
     {% endunless %}
-  {{ content }}
+    <hr>
+    <p><h3>大纲</h3></p>
+    {% include toc.html html=content  class="inline_toc" id="my_toc" h_min=2 h_max=6 %}
+    <hr>
+
+    {{ content  }}
 
   <hr>
   {% if page.tags contains 'R' %}

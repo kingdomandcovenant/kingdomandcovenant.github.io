@@ -5,7 +5,6 @@
 permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 encoding: utf-8
-
 # Setup
 title:               国度与圣约
 #tagline:            Pro Rege
@@ -14,9 +13,8 @@ url:                 http://kingdomandcovenant.github.io
 baseurl:  ""
 urlimg: http://kingdomandcovenant.github.io/images/
 markdown: kramdown
-
+kramdown:
 math_engine: mathjax
-
 paginate: 5
 paginate_path: "/blog/page:num"
 excerpt_separator: <!--继续阅读-->
@@ -36,9 +34,10 @@ gems:
   - font-awesome-sass
   - jekyll-redirect-from
   - jekyll-mentions
+  - jekyll-toc
+plugins:
+  - jekyll-toc
 
-jekyll-mentions:
-  base_url: https://twitter.com
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "rakefile", "README.md", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "LICENSE", "vendor", "assets", "_plugins", "public/dormant"]
