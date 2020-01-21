@@ -46,3 +46,4 @@ description: "我们争战的兵器本不是属血气的，乃是在神面前有
 
 </div>
 </h3>
+<script type="text/javascript" src="https://d1xnn692s7u6t6.cloudfront.net/widget.js"></script>
