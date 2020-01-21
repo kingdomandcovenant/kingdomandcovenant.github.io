@@ -6,8 +6,6 @@ tag:
   - 圣经神学
 ---
 
-## 序言
-
 
 在大概两千年前的巴勒斯坦， 耶稣的两个门徒向一个叫做以马忤斯的村子走去。他们刚刚经历了一场重大的人生变故，因而显得无所适从。一个陌生人突然凑上前来，问他们为何如此沮丧。这两位耶稣的门徒垂头丧气，因为他们曾寄予全部希望的老师与朋友刚刚被罗马人以最残忍与羞辱的方式杀害了。此时此刻，这两个门徒的心被沮丧、迷茫和恐惧占据。这个陌生人听完他们的诉苦，不仅没有安慰这两个人，反而很没有同情心地责备他们：“无知的人哪，你们的心信得太迟钝了”。  
 
@@ -145,3 +143,5 @@ tag:
 - DeRouchie, Jason（2019）. “The Mystery Revealed: A Biblical Case for Christ-Centered Old Testament Interpretation.” Themelios 44, no. 2 (n.d.). [https://themelios.thegospelcoalition.org/article/the-mystery-revealed-a-biblical-case-for-christ-centered-ot-interpretation/](https://themelios.thegospelcoalition.org/article/the-mystery-revealed-a-biblical-case-for-christ-centered-ot-interpretation/).
 - Murray, D. (2013). Jesus on every page: 10 simple ways to seek and find Christ in the Old Testament. Thomas Nelson.
 - Poythress, V. S. (1991). The shadow of Christ in the law of Moses. Wolgemuth & Hyatt.
+
+
