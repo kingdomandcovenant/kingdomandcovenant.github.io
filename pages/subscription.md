@@ -24,6 +24,6 @@ tags:
 
 [**邮件订阅**](https://feedburner.google.com/fb/a/mailverify?uri=github/koc&amp;loc=en_US)
 
-[**原生RSS**](https://kingdomandcovenant.gitee.io/feed.xml)
+[**原生RSS**](https://kingdomandcovenant.github.io/feed.xml)
 
 如无法订阅，在点击[此处](https://shimo.im/forms/XN4Sh201nOI3LXcA/fill)给我们留言。
