@@ -9,7 +9,20 @@ Credits: {{ site.url }}/disclosure
 {% include head.html %}
 
 <body>
-
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https'){
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
 {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
@@ -51,7 +64,7 @@ Credits: {{ site.url }}/disclosure
       })(document);
     </script>
     {% include scripts.html %}
- 
+ {% include analytics.html %}
  <script type="text/javascript" src="https://d1xnn692s7u6t6.cloudfront.net/widget.js"></script>
 <script type="text/javascript">(function k(){window.$SendToKindle&&window.$SendToKindle.Widget?$SendToKindle.Widget.init({}):setTimeout(k,500);})();</script>
 </body>

@@ -9,9 +9,9 @@ encoding: utf-8
 title:               国度与圣约
 #tagline:            Pro Rege
 #description:         Christ The Center
-url:                 http://kingdomandcovenant.github.io
+url:                 http://kingdomandcovenant.gitee.io
 baseurl:  ""
-urlimg: http://kingdomandcovenant.github.io/images/
+urlimg: http://kingdomandcovenant.gitee.io/images/
 markdown: kramdown
 kramdown:
 math_engine: mathjax
